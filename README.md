@@ -6,9 +6,9 @@ The application should have a db.json file on the back end that will be used to 
 
 The following HTML routes should be created:
 
-    GET /notes should return the notes.html file.
+    GET /notes should return the notes.html file. -DONE
 
-    GET * should return the index.html file.
+    GET * should return the index.html file. -DONE
 
 The following API routes should be created:
 
