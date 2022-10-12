@@ -1,12 +1,26 @@
 [
-    {
-        "title":"Hello",
-        "text":"World"
-    },
-
-    {
-        "title":"Balance Checkbook",
-        "text":"This is accounting stuffs."
-    }
-
+  {
+    "title": "Hello",
+    "text": "World"
+  },
+  {
+    "title": "Balance Checkbook",
+    "text": "This is accounting stuffs."
+  },
+  {
+    "title": "Do the Thing",
+    "text": "Thing that must be done!"
+  },
+  {
+    "title": "Well Hello There",
+    "text": "General Kenobi!"
+  },
+  {
+    "title": "Luka",
+    "text": "is very cute"
+  },
+  {
+    "title": "Asmo",
+    "text": "is the best!"
+  }
 ]
