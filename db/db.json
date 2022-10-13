@@ -1,12 +1,12 @@
 [
   {
-    "title": "Funny",
-    "text": "Joke\n",
+    "title": "Hello",
+    "text": "World",
     "id": "c128"
   },
   {
-    "title": "Hello",
-    "text": "World\n",
+    "title": "Balance Checkbook",
+    "text": "Accounting needs to be done",
     "id": "0647"
   },
   {
@@ -15,7 +15,7 @@
     "id": "686f"
   },
   {
-    "title": "Zhu Li!",
+    "title": "Buy Groceries",
     "text": "Do the Thing!",
     "id": "db6a"
   }
