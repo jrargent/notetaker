@@ -1,25 +1,26 @@
-# notetaker
+# Notetaker
 
-Getting Started
+## Description
 
-The application should have a db.json file on the back end that will be used to store and retrieve notes using the fs module.
+This is a tool for keeping track of notes. It utilizes a database to keep track of notes between different instances and user machines. 
 
-The following HTML routes should be created:
+## Link to Repo
 
-    GET /notes should return the notes.html file. -DONE
+https://github.com/jrargent/notetaker/
 
-    GET * should return the index.html file. -DONE
+## Link to Deployed Website
 
-The following API routes should be created:
+https://polar-fortress-57690.herokuapp.com/
 
-  DONE  GET /api/notes should read the db.json file and return all saved notes as JSON.
+## Installation
 
-    POST /api/notes should receive a new note to save on the request body, add it to the db.json file, and then return the new note to the client. You'll need to find a way to give each note a unique id when it's saved (look into npm packages that could do this for you). --HALF DONE need to use uuid for this (npm thing)  
-
-Need to set up the post for request/response whichever for when clicking on the note in the left-hand side, it pulls the note back over into the edit section.
+Once the files are on your local machine, open the terminal and enter the command 'npm i' to download the dependencies and npm files necessary.
 
 
 ## Acceptance Criteria
+
+This project needed to meet the following criteria:
+
 ```
 GIVEN a note-taking application
 WHEN I open the Note Taker
@@ -35,3 +36,7 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
+
+## Things I learned in this project
+- Using Express.js to create servers to utilize GET, POST, and FETCH requests
+- 
